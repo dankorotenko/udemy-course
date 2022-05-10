@@ -19,4 +19,5 @@ personalMovieDB.movies = {
     [m1]: r1,
     [m2]: r2
 }
+
 console.log(personalMovieDB);
